@@ -13,17 +13,6 @@
       ],
       "destination": "https://hoteldebtexpert.com/$1?ref=hotelloanconsultant.com",
       "permanent": true
-    },
-    {
-      "source": "/(.*)",
-      "has": [
-        {
-          "type": "host",
-          "value": "debtservicecoverageratios.com"
-        }
-      ],
-      "destination": "https://hoteldebtexpert.com/$1?ref=debtservicecoverageratios.com",
-      "permanent": true
     }
   ],
   "headers": [

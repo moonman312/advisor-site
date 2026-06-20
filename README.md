@@ -24,6 +24,5 @@ vercel && vercel --prod
 ## Domains for this project (add in Vercel → Settings → Domains)
 - Primary: **hoteldebtexpert.com**
 - hotelloanconsultant.com → set to **Redirect to** hoteldebtexpert.com
-- debtservicecoverageratios.com → set to **Redirect to** hoteldebtexpert.com
 
 Point each domain's nameservers (GoDaddy) to Vercel, or add an apex A record `@ -> 76.76.21.21`.
