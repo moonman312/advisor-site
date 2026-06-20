@@ -11,7 +11,7 @@
           "value": "hotelloanconsultant.com"
         }
       ],
-      "destination": "https://hoteldebtexpert.com/$1",
+      "destination": "https://hoteldebtexpert.com/$1?ref=hotelloanconsultant.com",
       "permanent": true
     },
     {
@@ -22,7 +22,7 @@
           "value": "debtservicecoverageratios.com"
         }
       ],
-      "destination": "https://hoteldebtexpert.com/$1",
+      "destination": "https://hoteldebtexpert.com/$1?ref=debtservicecoverageratios.com",
       "permanent": true
     }
   ],
